@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Dashboard",
+    "category": "pages",
+    "icon_name": "dashboard",
+    "to": "/"
+  }
+]
